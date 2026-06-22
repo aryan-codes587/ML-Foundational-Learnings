@@ -1,0 +1,17 @@
+- This is a repo for all the foundational ML requirements before starting classical ML.
+- contains one stop-solution to learn, practice, implement all the data science requirements.
+- List of learnings :-
+  - Python
+  - Numpy
+  - Pandas
+  - Scipy
+  - Matplotlib
+  - Seaborn
+  - Data Analysis
+      - Data Gathering.
+      - Data Accessing.
+      - Data Cleaning.
+      - Data Preprocessing
+      - Data Wrangling
+      - Data Transformation
+    
